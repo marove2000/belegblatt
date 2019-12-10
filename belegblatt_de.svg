@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.76543687"
-     inkscape:cx="460.72712"
-     inkscape:cy="541.6591"
+     inkscape:zoom="0.5412456"
+     inkscape:cx="227.11755"
+     inkscape:cy="533.30892"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1101"
-     inkscape:window-x="1920"
-     inkscape:window-y="28"
+     inkscape:window-height="983"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="false">
     <sodipodi:guide
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -118,7 +118,7 @@
              width="262.85004"
              id="rect1054-3" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'roboto mono';-inkscape-font-specification:'roboto mono'"
-           id="flowPara1056-6">Lieferant/Bezugsquelle</flowPara></flowRoot>      <path
+           id="flowPara1056-6">Betrag</flowPara></flowRoot>      <path
          inkscape:connector-curvature="0"
          id="path1044-7-0"
          d="m 108.26507,78.161154 h 80.00001"
@@ -145,103 +145,82 @@
              id="rect1054-3-6" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'roboto mono';-inkscape-font-specification:'roboto mono'"
            id="flowPara1056-6-1">Belegdatum</flowPara></flowRoot>    </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1050-0-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:25px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,6.3419767,36.386567)"><flowRegion
-         id="flowRegion1052-9-9"><rect
-           id="rect1054-3-2"
-           width="262.85004"
-           height="48.727993"
-           x="419.34189"
-           y="189.19118" /></flowRegion><flowPara
-         id="flowPara1056-6-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'roboto mono';-inkscape-font-specification:'roboto mono'">Die Ausgabe ist...</flowPara></flowRoot>    <rect
-       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46862718;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1182"
-       width="4.531373"
-       height="4.531373"
-       x="117.79414"
-       y="95.973633" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1050-0-7-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:25px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,13.376428,44.802263)"><flowRegion
-         id="flowRegion1052-9-9-7"><rect
-           id="rect1054-3-2-5"
-           width="262.85004"
-           height="48.727993"
-           x="419.34189"
-           y="189.19118" /></flowRegion><flowPara
-         id="flowPara1056-6-0-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'roboto mono';-inkscape-font-specification:'roboto mono'">eine Spende.</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1050-0-7-3-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:25px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,13.307526,51.79365)"><flowRegion
-         id="flowRegion1052-9-9-7-8"><rect
-           id="rect1054-3-2-5-9"
-           width="262.85004"
-           height="48.727993"
-           x="419.34189"
-           y="189.19118" /></flowRegion><flowPara
-         id="flowPara1056-6-0-9-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'roboto mono';-inkscape-font-specification:'roboto mono'">bereits beglichen.</flowPara></flowRoot>    <rect
-       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46862718;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1182-2-3"
-       width="4.531373"
-       height="4.531373"
-       x="117.79414"
-       y="102.97363" />
-    <rect
-       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46862718;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1182-2"
-       width="4.531373"
-       height="4.531373"
-       x="117.79414"
-       y="109.97363" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1050-0-7-3-2-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:25px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,13.307526,59.143328)"><flowRegion
-         id="flowRegion1052-9-9-7-8-1"><rect
-           id="rect1054-3-2-5-9-2"
-           width="262.85004"
-           height="48.727993"
-           x="419.34189"
-           y="189.19118" /></flowRegion><flowPara
-         id="flowPara1056-6-0-9-7-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'roboto mono';-inkscape-font-specification:'roboto mono'">soll überwiesen werden:</flowPara></flowRoot>    <g
-       id="g1409"
-       transform="translate(8.5614089,-3.9375004)">
-      <g
-         transform="translate(0.73334183,55.647583)"
-         id="g1143-3">
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot1050-0-1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:25px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="matrix(0.26458333,0,0,0.26458333,-2.9820572,27.27339)"><flowRegion
-             id="flowRegion1052-9-94"><rect
-               id="rect1054-3-7"
-               width="262.85004"
-               height="48.727993"
-               x="419.34189"
-               y="189.19118" /></flowRegion><flowPara
-             id="flowPara1056-6-8"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'roboto mono';-inkscape-font-specification:'roboto mono'">IBAN</flowPara></flowRoot>        <path
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2638343px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 108.26507,78.161154 h 80.00001"
-           id="path1044-7-0-4"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
+    <g
+       id="g3910"
+       transform="translate(-1.4384443e-5,20.363413)">
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,6.3419767,36.386567)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:25px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot1050-0-7"
+         xml:space="preserve"><flowRegion
+           id="flowRegion1052-9-9"><rect
+             y="189.19118"
+             x="419.34189"
+             height="48.727993"
+             width="262.85004"
+             id="rect1054-3-2" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'roboto mono';-inkscape-font-specification:'roboto mono'"
+           id="flowPara1056-6-0">Die Ausgabe ist...</flowPara></flowRoot>      <rect
+         y="95.973633"
+         x="117.79414"
+         height="4.531373"
+         width="4.531373"
+         id="rect1182"
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46862718;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,13.376428,44.802263)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:25px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot1050-0-7-3"
+         xml:space="preserve"><flowRegion
+           id="flowRegion1052-9-9-7"><rect
+             y="189.19118"
+             x="419.34189"
+             height="48.727993"
+             width="262.85004"
+             id="rect1054-3-2-5" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'roboto mono';-inkscape-font-specification:'roboto mono'"
+           id="flowPara1056-6-0-9">eine Spende.</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,13.307526,51.79365)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:25px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot1050-0-7-3-2"
+         xml:space="preserve"><flowRegion
+           id="flowRegion1052-9-9-7-8"><rect
+             y="189.19118"
+             x="419.34189"
+             height="48.727993"
+             width="262.85004"
+             id="rect1054-3-2-5-9" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'roboto mono';-inkscape-font-specification:'roboto mono'"
+           id="flowPara1056-6-0-9-7">bereits beglichen.</flowPara></flowRoot>      <rect
+         y="102.97363"
+         x="117.79414"
+         height="4.531373"
+         width="4.531373"
+         id="rect1182-2-3"
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46862718;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="109.97363"
+         x="117.79414"
+         height="4.531373"
+         width="4.531373"
+         id="rect1182-2"
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46862718;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,13.307526,59.143328)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:25px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot1050-0-7-3-2-6"
+         xml:space="preserve"><flowRegion
+           id="flowRegion1052-9-9-7-8-1"><rect
+             y="189.19118"
+             x="419.34189"
+             height="48.727993"
+             width="262.85004"
+             id="rect1054-3-2-5-9-2" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'roboto mono';-inkscape-font-specification:'roboto mono'"
+           id="flowPara1056-6-0-9-7-9">soll überwiesen werden:</flowPara></flowRoot>    </g>
     <g
        id="g1143-3-5"
-       transform="translate(9.2947507,89.604678)">
+       transform="translate(9.2947507,104.60468)">
       <flowRoot
          transform="matrix(0.26458333,0,0,0.26458333,-2.9820572,27.27339)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:25px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -261,75 +240,12 @@
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2638343px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <rect
-       style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.10958001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.07883405;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1411"
        width="79.890411"
-       height="94.890419"
+       height="49.111973"
        x="117.74184"
-       y="196.05479" />
-    <g
-       id="g1453"
-       transform="translate(8.4666671,20.583732)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1044-3"
-         d="m 114.22037,195.53967 h 70"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.24679439px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,3.1472201,144.66043)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:25px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot1050-2"
-         xml:space="preserve"><flowRegion
-           id="flowRegion1052-0"><rect
-             y="189.19118"
-             x="419.34189"
-             height="48.727993"
-             width="262.85004"
-             id="rect1054-6" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'roboto mono';-inkscape-font-specification:'roboto mono'"
-           id="flowPara1056-1">Kostenstelle</flowPara></flowRoot>    </g>
-    <g
-       transform="translate(8.4666684,35.583732)"
-       id="g1453-3">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1044-3-7"
-         d="m 114.22037,195.53967 h 70"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.24679439px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,3.1472201,144.66043)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:25px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot1050-2-4"
-         xml:space="preserve"><flowRegion
-           id="flowRegion1052-0-5"><rect
-             y="189.19118"
-             x="419.34189"
-             height="48.727993"
-             width="262.85004"
-             id="rect1054-6-2" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'roboto mono';-inkscape-font-specification:'roboto mono'"
-           id="flowPara1056-1-5">Beleg ID</flowPara></flowRoot>    </g>
-    <g
-       transform="translate(8.4666684,50.583732)"
-       id="g1453-3-4">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1044-3-7-7"
-         d="m 114.22037,195.53967 h 70"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.24679439px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,3.1472201,144.66043)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:25px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot1050-2-4-4"
-         xml:space="preserve"><flowRegion
-           id="flowRegion1052-0-5-4"><rect
-             y="189.19118"
-             x="419.34189"
-             height="48.727993"
-             width="262.85004"
-             id="rect1054-6-2-3" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'roboto mono';-inkscape-font-specification:'roboto mono'"
-           id="flowPara1056-1-5-0">Belegtext</flowPara></flowRoot>    </g>
+       y="241.83324" />
     <rect
        style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.48317349;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect815"
@@ -488,7 +404,7 @@
        xml:space="preserve"
        id="flowRoot1050-0-1-0-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:25px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,8.0773675,145.56387)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,8.0773675,192.13083)"><flowRegion
          id="flowRegion1052-9-94-3-4"><rect
            id="rect1054-3-7-6-9"
            width="262.85004"
@@ -551,29 +467,79 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'roboto mono';-inkscape-font-specification:'roboto mono'"
            id="flowPara1056-1-1-6">Unterschrift</flowPara></flowRoot>    </g>
     <g
-       id="g1409-4"
-       transform="translate(8.5614089,10.546633)">
+       id="g3926"
+       transform="translate(0,20)">
       <g
-         transform="translate(0.73334183,55.647583)"
-         id="g1143-3-2">
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot1050-0-1-07"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:25px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="matrix(0.26458333,0,0,0.26458333,-2.9820572,27.27339)"><flowRegion
-             id="flowRegion1052-9-94-35"><rect
-               id="rect1054-3-7-8"
-               width="262.85004"
-               height="48.727993"
-               x="419.34189"
-               y="189.19118" /></flowRegion><flowPara
-             id="flowPara1056-6-8-3"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'roboto mono';-inkscape-font-specification:'roboto mono'" /></flowRoot>        <path
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2638343px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 108.26507,78.161154 h 80.00001"
-           id="path1044-7-0-4-5"
-           inkscape:connector-curvature="0" />
+         transform="translate(8.5614089,-3.9375004)"
+         id="g1409">
+        <g
+           id="g1143-3"
+           transform="translate(0.73334183,55.647583)">
+          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-2.9820572,27.27339)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:25px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot1050-0-1"
+             xml:space="preserve"><flowRegion
+               id="flowRegion1052-9-94"><rect
+                 y="189.19118"
+                 x="419.34189"
+                 height="48.727993"
+                 width="262.85004"
+                 id="rect1054-3-7" /></flowRegion><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'roboto mono';-inkscape-font-specification:'roboto mono'"
+               id="flowPara1056-6-8">IBAN</flowPara></flowRoot>          <path
+             inkscape:connector-curvature="0"
+             id="path1044-7-0-4"
+             d="m 108.26507,78.161154 h 80.00001"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2638343px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
       </g>
+      <g
+         transform="translate(8.5614089,10.546633)"
+         id="g1409-4">
+        <g
+           id="g1143-3-2"
+           transform="translate(0.73334183,55.647583)">
+          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-2.9820572,27.27339)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:25px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot1050-0-1-07"
+             xml:space="preserve"><flowRegion
+               id="flowRegion1052-9-94-35"><rect
+                 y="189.19118"
+                 x="419.34189"
+                 height="48.727993"
+                 width="262.85004"
+                 id="rect1054-3-7-8" /></flowRegion><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'roboto mono';-inkscape-font-specification:'roboto mono'"
+               id="flowPara1056-6-8-3" /></flowRoot>          <path
+             inkscape:connector-curvature="0"
+             id="path1044-7-0-4-5"
+             d="m 108.26507,78.161154 h 80.00001"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2638343px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1143-36"
+       transform="translate(9.2947457,11.0625)">
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-2.9820572,27.27339)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:25px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot1050-0-75"
+         xml:space="preserve"><flowRegion
+           id="flowRegion1052-9-3"><rect
+             y="189.19118"
+             x="419.34189"
+             height="48.727993"
+             width="262.85004"
+             id="rect1054-3-5" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'roboto mono';-inkscape-font-specification:'roboto mono'"
+           id="flowPara1056-6-6">Lieferant/Bezugsquelle</flowPara></flowRoot>      <path
+         inkscape:connector-curvature="0"
+         id="path1044-7-0-2"
+         d="m 108.26507,78.161154 h 80.00001"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2638343px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
   </g>
 </svg>
