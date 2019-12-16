@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5412456"
-     inkscape:cx="227.11755"
-     inkscape:cy="533.30892"
+     inkscape:zoom="0.76543687"
+     inkscape:cx="157.70105"
+     inkscape:cy="723.44891"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="983"
-     inkscape:window-x="0"
+     inkscape:window-height="1103"
+     inkscape:window-x="1920"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="false">
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -416,7 +416,7 @@
        xml:space="preserve"
        id="flowRoot1050-0-1-0-1-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:25px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,-58.860626,-26.274706)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-54.372528,-26.274706)"><flowRegion
          id="flowRegion1052-9-94-3-4-8"><rect
            id="rect1054-3-7-6-9-9"
            width="452.13953"
@@ -424,7 +424,7 @@
            x="419.34189"
            y="189.19118" /></flowRegion><flowPara
          id="flowPara1056-6-8-1-2-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'roboto mono';-inkscape-font-specification:'roboto mono'">Formular zum Abrechnen von Ausgaben für dem Verein</flowPara></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'roboto mono';-inkscape-font-specification:'roboto mono'">Formular zum Abrechnen von Ausgaben für den Verein</flowPara></flowRoot>    <g
        id="g1453-36"
        transform="translate(8.4666684,65.583732)">
       <path
